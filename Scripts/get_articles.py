@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-API_KEY = '863a63a8004a4063a52b0f6f4a86c9aa'
+API_KEY = 'your Key!'
 TOTAL_ARTICLES_NEEDED = 100
 movies = [
     {"title": "Wicked", "keywords": ["Ariana Grande ", "Jon M. Chu", "Cynthia Erivo", "Critics", "Cinema", "Box Office", "Glinda", "Elphaba", "Musical", "Stephen Schwartz", "Winnie Holzman", "Wizard of Oz", "Wicked Witch", "Prequel", "Adaption", "Film", "Visual Effects", "Pop Culture", "Fantasy", "Magic"]},
@@ -21,7 +21,7 @@ def fetch_articles(movie, api_key, articles_needed_per_movie, seen_urls):
         while total_fetched < articles_per_keyword:
             params = {
                 'q': f"{movie['title']} AND {keyword.lower()}",
-                'from': '2024-10-20',
+                'from': '2024-11-01',
                 'to': '2024-11-14',
                 'language': 'en',
                 'apiKey': api_key,
