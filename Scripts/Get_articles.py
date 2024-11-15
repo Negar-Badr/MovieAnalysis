@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-API_KEY = 'b6c9ebb7b74d4aacbbe1f787bd118f8a'
+API_KEY = ''
 TOTAL_ARTICLES_NEEDED = 300
 MAX_PAGES = 5  # Limit the number of pages per keyword
 movies = [
@@ -22,8 +22,8 @@ def fetch_articles(movie, api_key, articles_needed_per_movie):
         while total_fetched < articles_per_keyword and page <= MAX_PAGES:
             params = {
                 'q': f"{movie['title']} AND {keyword.lower()}",
-                'from': '2024-10-17',
-                'to': '2024-10-24',
+                'from': '2024-11-8',
+                'to': '2024-11-14',
                 'language': 'en',
                 'apiKey': api_key,
                 'pageSize': min(300, articles_per_keyword - total_fetched),
