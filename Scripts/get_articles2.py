@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-API_KEY = 'b6c9ebb7b74d4aacbbe1f787bd118f8a'
+API_KEY = ''
 TOTAL_ARTICLES_NEEDED = 300
 MAX_PAGES = 5  # Limit the number of pages per keyword
 movies = [
