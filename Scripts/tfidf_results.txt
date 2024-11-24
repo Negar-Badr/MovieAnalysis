@@ -1,0 +1,84 @@
+Category: Celebrity News and Gossip
+  ariana: 0.0251
+  wicked: 0.0241
+  grande: 0.0239
+  movie: 0.0204
+  erivo: 0.0201
+  gladiator: 0.0194
+  cynthia: 0.0192
+  film: 0.0189
+  star: 0.0164
+  stars: 0.0160
+
+Category: Production and Behind-the-Scenes
+  gladiator: 0.0247
+  wicked: 0.0231
+  scott: 0.0217
+  film: 0.0196
+  ridley: 0.0193
+  movie: 0.0190
+  cynthia: 0.0182
+  erivo: 0.0182
+  sequel: 0.0182
+  musical: 0.0164
+
+Category: Movies and Entertainment Industry
+  moana: 0.0216
+  wicked: 0.0209
+  film: 0.0193
+  gladiator: 0.0186
+  disney: 0.0181
+  movies: 0.0173
+  movie: 0.0162
+  2024: 0.0137
+  year: 0.0133
+  november: 0.0130
+
+Category: Critical Reception and Reviews
+  gladiator: 0.0372
+  film: 0.0309
+  ridley: 0.0262
+  scott: 0.0262
+  wicked: 0.0241
+  screening: 0.0228
+  sequel: 0.0227
+  reactions: 0.0227
+  critics: 0.0227
+  mescal: 0.0208
+
+Category: Box Office and Financial Performance
+  disney: 0.0225
+  weekend: 0.0224
+  venom: 0.0211
+  dance: 0.0202
+  2: 0.0196
+  film: 0.0178
+  1: 0.0176
+  wicked: 0.0176
+  moana: 0.0176
+  release: 0.0173
+
+Category: NonRelated
+  focus: 0.0326
+  office: 0.0130
+  movies: 0.0130
+  trump: 0.0125
+  studios: 0.0120
+  2025: 0.0116
+  american: 0.0116
+  awards: 0.0109
+  face: 0.0109
+  seed: 0.0102
+
+Category: Marketing and Merchandise
+  disney: 0.0343
+  moana: 0.0264
+  gladiator: 0.0246
+  wicked: 0.0224
+  amazon: 0.0211
+  kids: 0.0196
+  2: 0.0189
+  99: 0.0187
+  post: 0.0178
+  appeared: 0.0178
+
