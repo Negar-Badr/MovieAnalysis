@@ -1,21 +1,21 @@
 Category: Celebrity News and Gossip
-  ariana: 0.0258
-  wicked: 0.0247
-  grande: 0.0245
+  ariana: 0.0260
+  wicked: 0.0250
+  grande: 0.0247
   movie: 0.0209
-  erivo: 0.0207
-  gladiator: 0.0200
-  cynthia: 0.0197
-  film: 0.0194
-  star: 0.0169
-  stars: 0.0164
+  erivo: 0.0206
+  gladiator: 0.0202
+  cynthia: 0.0196
+  film: 0.0193
+  star: 0.0167
+  stars: 0.0163
 
 Category: Production and Behind-the-Scenes
-  gladiator: 0.0254
-  wicked: 0.0238
-  scott: 0.0224
-  film: 0.0201
-  ridley: 0.0199
+  gladiator: 0.0258
+  wicked: 0.0240
+  scott: 0.0225
+  film: 0.0202
+  ridley: 0.0200
   movie: 0.0195
   cynthia: 0.0187
   erivo: 0.0187
@@ -23,62 +23,61 @@ Category: Production and Behind-the-Scenes
   musical: 0.0169
 
 Category: Movies and Entertainment Industry
-  moana: 0.0225
-  wicked: 0.0218
-  film: 0.0202
-  gladiator: 0.0194
-  disney: 0.0189
-  movies: 0.0181
-  movie: 0.0169
-  year: 0.0139
-  november: 0.0135
-  mescal: 0.0133
+  moana: 0.0231
+  wicked: 0.0220
+  film: 0.0211
+  movies: 0.0196
+  gladiator: 0.0195
+  disney: 0.0194
+  movie: 0.0167
+  awards: 0.0159
+  year: 0.0142
+  november: 0.0138
 
 Category: Critical Reception and Reviews
-  gladiator: 0.0389
-  film: 0.0323
-  ridley: 0.0275
-  scott: 0.0275
-  wicked: 0.0253
-  screening: 0.0239
-  sequel: 0.0238
-  reactions: 0.0238
-  critics: 0.0238
-  mescal: 0.0218
+  gladiator: 0.0464
+  film: 0.0363
+  ridley: 0.0310
+  scott: 0.0310
+  wicked: 0.0281
+  sequel: 0.0263
+  reactions: 0.0263
+  critics: 0.0263
+  screening: 0.0261
+  mescal: 0.0236
 
 Category: Box Office and Financial Performance
-  disney: 0.0247
-  weekend: 0.0246
-  venom: 0.0231
-  dance: 0.0222
-  film: 0.0196
-  wicked: 0.0193
-  moana: 0.0193
-  release: 0.0190
-  theaters: 0.0190
-  movie: 0.0183
-
-Category: NonRelated
-  focus: 0.0349
-  office: 0.0139
-  movies: 0.0139
-  trump: 0.0134
-  studios: 0.0129
-  american: 0.0124
-  awards: 0.0116
-  face: 0.0116
-  seed: 0.0109
-  film: 0.0107
+  disney: 0.0256
+  venom: 0.0248
+  weekend: 0.0242
+  dance: 0.0235
+  film: 0.0212
+  box: 0.0205
+  office: 0.0205
+  wicked: 0.0199
+  moana: 0.0199
+  theaters: 0.0187
 
 Category: Marketing and Merchandise
-  disney: 0.0366
-  moana: 0.0282
-  gladiator: 0.0262
-  wicked: 0.0239
-  amazon: 0.0225
-  kids: 0.0209
-  post: 0.0189
-  appeared: 0.0189
-  movie: 0.0184
-  stars: 0.0175
+  disney: 0.0397
+  moana: 0.0297
+  gladiator: 0.0276
+  wicked: 0.0260
+  amazon: 0.0233
+  kids: 0.0214
+  post: 0.0203
+  appeared: 0.0203
+  movie: 0.0197
+  stars: 0.0181
 
+Category: NonRelated
+  focus: 0.0372
+  trump: 0.0163
+  day: 0.0145
+  san: 0.0140
+  francisco: 0.0140
+  catalog: 0.0140
+  witch: 0.0140
+  american: 0.0122
+  things: 0.0122
+  november: 0.0122
