@@ -1,0 +1,84 @@
+Category: Celebrity News and Gossip
+  ariana: 0.0271
+  grande: 0.0258
+  movie: 0.0218
+  erivo: 0.0215
+  cynthia: 0.0205
+  film: 0.0202
+  star: 0.0175
+  stars: 0.0170
+  glinda: 0.0166
+  poster: 0.0165
+
+Category: Production and Behind-the-Scenes
+  scott: 0.0238
+  film: 0.0214
+  ridley: 0.0212
+  movie: 0.0206
+  cynthia: 0.0198
+  erivo: 0.0198
+  sequel: 0.0198
+  musical: 0.0178
+  ariana: 0.0169
+  grande: 0.0169
+
+Category: Movies and Entertainment Industry
+  film: 0.0218
+  movies: 0.0203
+  disney: 0.0201
+  movie: 0.0173
+  awards: 0.0164
+  year: 0.0147
+  november: 0.0143
+  mescal: 0.0140
+  week: 0.0138
+  time: 0.0138
+
+Category: Critical Reception and Reviews
+  film: 0.0387
+  ridley: 0.0331
+  scott: 0.0331
+  sequel: 0.0280
+  reactions: 0.0280
+  critics: 0.0280
+  screening: 0.0278
+  mescal: 0.0251
+  movie: 0.0251
+  denzel: 0.0231
+
+Category: Box Office and Financial Performance
+  disney: 0.0263
+  venom: 0.0256
+  weekend: 0.0249
+  dance: 0.0242
+  film: 0.0218
+  box: 0.0211
+  office: 0.0211
+  theaters: 0.0193
+  release: 0.0182
+  tom: 0.0181
+
+Category: Marketing and Merchandise
+  disney: 0.0419
+  amazon: 0.0246
+  kids: 0.0226
+  post: 0.0214
+  appeared: 0.0214
+  movie: 0.0207
+  stars: 0.0191
+  november: 0.0179
+  fans: 0.0179
+  target: 0.0177
+
+Category: NonRelated
+  focus: 0.0372
+  trump: 0.0163
+  day: 0.0145
+  san: 0.0140
+  francisco: 0.0140
+  catalog: 0.0140
+  witch: 0.0140
+  american: 0.0122
+  things: 0.0122
+  november: 0.0122
+
