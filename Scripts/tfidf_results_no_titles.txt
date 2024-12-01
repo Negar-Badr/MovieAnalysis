@@ -1,83 +1,84 @@
 Category: Celebrity News and Gossip
-  ariana: 0.0279
-  grande: 0.0265
-  star: 0.0236
-  erivo: 0.0221
-  cynthia: 0.0210
-  fan: 0.0189
-  poster: 0.0182
-  year: 0.0180
-  glinda: 0.0170
-  premiere: 0.0166
+  ariana: 10.6464
+  grande: 10.4765
+  erivo: 5.5180
+  cynthia: 5.3180
+  washington: 3.7139
+  premiere: 3.6491
+  mescal: 3.6260
+  denzel: 3.5508
+  paul: 3.4824
+  glinda: 3.2877
 
 Category: Production and Behind-the-Scenes
-  scott: 0.0247
-  ridley: 0.0218
-  star: 0.0214
-  cynthia: 0.0204
-  erivo: 0.0204
-  sequel: 0.0204
-  musical: 0.0183
-  ariana: 0.0173
-  grande: 0.0173
-  scene: 0.0173
+  scott: 3.0890
+  ridley: 2.8976
+  mescal: 2.3470
+  paul: 2.3454
+  cynthia: 2.1195
+  erivo: 2.1195
+  featurette: 2.1183
+  scenes: 2.0103
+  director: 1.6680
+  grande: 1.6549
 
 Category: Movies and Entertainment Industry
-  disney: 0.0208
-  award: 0.0208
-  year: 0.0185
-  november: 0.0148
-  musical: 0.0148
-  holiday: 0.0145
-  mescal: 0.0145
-  week: 0.0142
-  time: 0.0142
-  director: 0.0129
+  disney: 2.7978
+  best: 2.4442
+  november: 2.3596
+  awards: 2.3540
+  streaming: 2.3114
+  tv: 1.7337
+  mescal: 1.5777
+  oscars: 1.5672
+  musical: 1.5609
+  time: 1.5028
 
 Category: Critical Reception and Reviews
-  ridley: 0.0343
-  scott: 0.0343
-  reaction: 0.0328
-  sequel: 0.0290
-  critic: 0.0290
-  screening: 0.0288
-  mescal: 0.0260
-  denzel: 0.0240
-  early: 0.0240
-  post: 0.0240
+  reactions: 3.2844
+  critics: 3.1946
+  entertained: 2.2990
+  ridley: 2.2572
+  scott: 2.1522
+  review: 1.6205
+  screening: 1.5891
+  mescal: 1.5031
+  denzel: 1.4566
+  paul: 1.3724
 
 Category: Box Office and Financial Performance
-  disney: 0.0270
-  venom: 0.0262
-  weekend: 0.0256
-  dance: 0.0248
-  box: 0.0216
-  office: 0.0216
-  theater: 0.0208
-  release: 0.0198
-  studio: 0.0187
-  hit: 0.0186
+  venom: 6.4595
+  million: 4.4410
+  weekend: 4.0275
+  dance: 3.4758
+  tom: 2.2551
+  opening: 1.9268
+  disney: 1.6856
+  thanksgiving: 1.6479
+  heretic: 1.5592
+  theaters: 1.5172
 
 Category: Marketing and Merchandise
-  disney: 0.0428
-  amazon: 0.0251
-  star: 0.0234
-  kid: 0.0231
-  post: 0.0219
-  appeared: 0.0219
-  november: 0.0183
-  fan: 0.0183
-  bucket: 0.0181
-  target: 0.0181
+  disney: 3.6296
+  amazon: 1.6828
+  fans: 1.5415
+  popcorn: 1.5363
+  target: 1.5131
+  bucket: 1.3160
+  appeared: 1.2548
+  ideas: 1.2398
+  kids: 1.2219
+  post: 1.1588
 
 Category: NonRelated
-  focus: 0.0375
-  witch: 0.0234
-  day: 0.0178
-  thing: 0.0164
-  trump: 0.0164
-  game: 0.0146
-  san: 0.0141
-  francisco: 0.0141
-  catalog: 0.0141
-  sea: 0.0141
+  focus: 1.4799
+  trump: 1.4034
+  catalog: 0.8785
+  game: 0.6762
+  witches: 0.6610
+  francisco: 0.6489
+  november: 0.6245
+  san: 0.6184
+  witch: 0.6050
+  american: 0.5937
+
